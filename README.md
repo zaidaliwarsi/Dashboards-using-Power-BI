@@ -31,7 +31,3 @@ To demonstrate the use of **Power BI** for building professional dashboards that
 
 Example:  
 ![pbi](https://github.com/user-attachments/assets/e883ef05-e149-46d1-b6a5-96dce96963cd)
-
-
--screenshot.png)
-
