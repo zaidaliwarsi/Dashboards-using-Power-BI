@@ -35,5 +35,3 @@ Example:
 
 -screenshot.png)
 
-## 🗂️ Repository Structure
-
