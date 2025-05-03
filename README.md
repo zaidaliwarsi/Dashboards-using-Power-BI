@@ -1,25 +1,39 @@
-📊 E-Commerce Sales Dashboard – Power BI Project
-This repository contains a Power BI dashboard project focused on visualizing and analyzing e-commerce sales data. The sample dataset was sourced from Kaggle, and the project showcases how business intelligence tools can help derive meaningful insights from raw sales data.
+#  E-Commerce Sales Dashboard with Power BI
 
-🔧 Tools & Technologies
-Power BI (Desktop)
 
-Kaggle Dataset (CSV format)
+## 💡 Features
 
-📈 Dashboard Features
-Sales Overview – Total sales, profit, and order trends over time
+- 📅 **Sales Overview**: Track total sales, profit, and order trends over time  
+- 📦 **Top Products & Categories**: Identify best-selling products and categories  
+- 🌍 **Customer Insights**: Understand purchasing behavior and regional distribution  
+- 📊 **Key Metrics**: Monitor KPIs like revenue, quantity sold, and average order value  
+- 🧭 **Interactive Filters**: Use slicers to explore data by date, region, and category  
 
-Top Products & Categories – Best-selling items and categories
+## 🧰 Tools & Technologies
 
-Customer Insights – Purchase behavior and geographical distribution
+- **Power BI Desktop**  
+- **Sample Dataset from Kaggle** ([Link](https://www.kaggle.com/))  
+- **CSV File Format**
 
-Performance Metrics – KPIs such as revenue, quantity sold, average order value
+## 📁 Dataset Source
 
-Interactive Filters – Drill-down capabilities by date, category, and region
+The data used in this project was obtained from a public dataset on **[Kaggle](https://www.kaggle.com/)**.  
+> ⚠️ *Due to licensing restrictions, the dataset is not included in this repository. Please download it directly from Kaggle.*
 
-📁 Dataset Source
-The dataset used in this project is publicly available on Kaggle.
-(Note: Due to licensing, the raw data file is not included in this repo. Please download it directly from Kaggle.)
+## 🎯 Project Objective
 
-📌 Project Objective
-The goal of this project is to demonstrate the use of Power BI for creating insightful and interactive dashboards that help e-commerce businesses track performance and make data-driven decisions.
+To demonstrate the use of **Power BI** for building professional dashboards that help e-commerce businesses:
+- Analyze performance
+- Track KPIs
+- Support data-driven decisions
+
+## 📷 Dashboard Preview
+
+Example:  
+![pbi](https://github.com/user-attachments/assets/e883ef05-e149-46d1-b6a5-96dce96963cd)
+
+
+-screenshot.png)
+
+## 🗂️ Repository Structure
+
