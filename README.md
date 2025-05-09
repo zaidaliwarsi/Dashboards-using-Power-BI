@@ -30,6 +30,11 @@ To demonstrate the use of **Power BI** for building professional dashboards that
 ## 📷 Dashboard Preview
 
 Example:  
+## 📷 Project 1:
 ![pbi](https://github.com/user-attachments/assets/e883ef05-e149-46d1-b6a5-96dce96963cd)
+## 📷 Project 2:
 ![pbi1](https://github.com/user-attachments/assets/b4652634-44ce-4f77-a2a1-3c0f08e583b3)
+## 📷 Project 3:
+![Capture](https://github.com/user-attachments/assets/72a5b8b7-fd09-4d83-8fc2-026bdacb317c)
+
 
