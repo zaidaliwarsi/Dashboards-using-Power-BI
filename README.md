@@ -38,4 +38,5 @@ Example:
 ![Capture](https://github.com/user-attachments/assets/72a5b8b7-fd09-4d83-8fc2-026bdacb317c)
 
 ## 📷 Project 4:
-![GPT_1](https://github.com/user-attachments/assets/cf08b3cf-e8e9-48da-87dc-b455a02343bb)
+![GPT2](https://github.com/user-attachments/assets/c27f8b69-6c74-4781-a262-e23a4781c0c6)
+
