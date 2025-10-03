@@ -30,13 +30,17 @@ To demonstrate the use of **Power BI** for building professional dashboards that
 ## 📷 Dashboard Preview
 
 Example:  
-## 📷 Project 1:
+## 📷 Project 1 (With Power-BI):
 ![pbi](https://github.com/user-attachments/assets/e883ef05-e149-46d1-b6a5-96dce96963cd)
-## 📷 Project 2:
+## 📷 Project 2 (With Power-BI):
 ![pbi1](https://github.com/user-attachments/assets/b4652634-44ce-4f77-a2a1-3c0f08e583b3)
-## 📷 Project 3:
+## 📷 Project 3 (With Power-BI):
 ![Capture](https://github.com/user-attachments/assets/72a5b8b7-fd09-4d83-8fc2-026bdacb317c)
 
-## 📷 Project 4:
+## 📷 Project 4 (With Power-BI):
 ![GPT2](https://github.com/user-attachments/assets/c27f8b69-6c74-4781-a262-e23a4781c0c6)
+
+## 📷 Project 5 (With Excel):
+
+<img width="1384" height="850" alt="image" src="https://github.com/user-attachments/assets/6f2cb575-605e-4d68-982e-a744f119d7c6" />
 
