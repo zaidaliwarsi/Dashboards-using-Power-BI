@@ -44,3 +44,7 @@ Example:
 
 <img width="1384" height="850" alt="image" src="https://github.com/user-attachments/assets/6f2cb575-605e-4d68-982e-a744f119d7c6" />
 
+## 📷 Project 6 (With Excel):
+
+<img width="1920" height="1080" alt="Batting_stats" src="https://github.com/user-attachments/assets/845cfa8d-23bd-40e7-a2bf-233b5230883f" />
+
