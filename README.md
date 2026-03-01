@@ -15,10 +15,10 @@ The data used in this project was obtained from a public dataset on **[Kaggle](h
 ## 📷 Dashboard Preview
 
 Example:  
-## 📷 Project 1 (With Excel):
+## 📷 Project 1 : Fitness Centre Progess Tracker (With Excel):
 <img width="1267" height="844" alt="sss" src="https://github.com/user-attachments/assets/d815a66c-37b6-41f6-a411-fe7f691515dd" />
 
-## 📷 Project 2 (With Power BI):
+## 📷 Project 2 : Financial Assurance & ESG Integrity Pipeline(With Power BI):
 <img width="1549" height="861" alt="SS" src="https://github.com/user-attachments/assets/21f4ee44-ac27-406a-baa8-499178adc137" />
 
 ## 📷 Project 3 (With Power BI):
